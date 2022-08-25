@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-family: sans-serif;
+    height: 100vh;
+}
+
+body{
+    background-color: darkgrey;
+    
+}
+
+.container h2{
+    display: flex;
+}
+
+.subtitle{
+    display: flex;
+    color: black;
+    justify-content: center;
+    font-family: 'Cairo', sans-serif;
+    
+    
+}
+.subtitle h2{
+    font-size: 24px;
+}
+.subLista h2{
+    font-size: 24px;
+    font-family: 'Cairo', sans-serif;
+}
+.containerForm{
+    background-color: #A0CCDA;
+    border-radius: 15px;
+    padding-bottom: 20px;
+}
+.containerForm input{
+    margin: 1rem 0rem;
+    line-height: 2rem;
+
+}
+.formularioCancion{
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+}
+.formLista button{
+    margin: 1rem 0rem;
+    line-height: 2rem;
+}
+#listado{
+    font-family: 'Cairo', sans-serif;
+    justify-content: space-between;
+}
+#listaCanciones{
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+}
+.btnAgregarCancion{
+   width: 175px;
+}
+
+.menuSide{
+    color: black;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+    font-size: 27px;
+    margin-top: 0.5rem;
+    padding-bottom: 0.25rem;
+    
+}
+
+.listadoCanciones{
+    display: flex;
+    justify-content: space-between;
+}
+
+.filtro{
+    display: none;
+}
+
+.bgDer{
+    margin-top: 20px;
+    background-color: #A0CCDA;
+    border-radius: 15px;
+}
+
+.textoFooter{
+    font-size: 20px;
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+}
+.textoFooter2{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Cairo', sans-serif;
+}
+
+.alerta{
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: #b06ab3;
+    padding-top: 10px;
+}
+
+#apiClima{
+    display:block;
+    margin-top: 30px;
+    height: 15em;
+    background-color: #2A3D45;
+    color: #DDC9B4;
+    border-radius: 5%;
+}
+
+#apiClima > .block{
+    padding: 5px;
+    justify-content: center;
+}
+
+
+
+
+.information-container {
+    display: flex;
+    justify-content: center;
+}
+
+.information {
+    margin-left: 5px;
+}
+
+#location {
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;  
+}
+
+#date, #description{
+    text-align: center;
+}
+

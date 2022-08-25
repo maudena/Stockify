@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "Amanda 1k",
+        "costo": "340",
+        "cantidad": "20",
+        "rubro": "Yerbas",
+        "id": "1",
+        "utilidad": 35
+    },
+    {
+        "nombre": "Amanda 500",
+        "costo": "210",
+        "cantidad": "25",
+        "rubro": "Yerbas",
+        "id": "2",
+        "utilidad": 35
+    },
+    {
+        "nombre": "Skip 3L",
+        "costo": "400",
+        "cantidad": "8",
+        "rubro": "Jabon Liquido",
+        "id": "3",
+        "utilidad": 35
+    },
+    {
+        "nombre": "Skip 800ml",
+        "costo": "190",
+        "cantidad": "12",
+        "rubro": "Jabon Liquido",
+        "id": "4",
+        "utilidad": 35
+    },
+    {
+        "nombre": "Oreo",
+        "costo": "90",
+        "cantidad": "36",
+        "rubro": "Galletitas",
+        "id": "5",
+        "utilidad": 35
+    },
+    {
+        "nombre": "Dolca 170g",
+        "costo": "180",
+        "cantidad": "12",
+        "rubro": "Cafe",
+        "id": "6",
+        "utilidad": 35
+    },
+    {
+        "nombre": "Termidor caja tinto",
+        "costo": "100",
+        "cantidad": "12",
+        "rubro": "Vinos tetra",
+        "id": "7",
+        "utilidad": 35
+    }
+]
